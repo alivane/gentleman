@@ -6,7 +6,9 @@
  }
 
 /* Grid system */
-
+.container-fluid{
+	width: 100%;
+}
 .container {
   padding-right: 15px;
   padding-left: 15px;
