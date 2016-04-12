@@ -13,6 +13,10 @@ img{
 	color:white;
 	padding: 50px;
 }
+ul {
+	margin-left: 15px;
+	font-size:13px;
+}
 ul li{
 	display:inline-block;
 	padding-left: 10px;
@@ -20,7 +24,7 @@ ul li{
 }
 p{
 	color:grey;
-	font-size: 10px;
+	font-size: 11px;
 }
 .container-fluid{
 	background-color:#E7E7E9;
@@ -80,7 +84,7 @@ h3{
 }
 a{
 	text-decoration: none;
-	color:white;
+	color:silver;
 	margin-top: 10px;
 }
 #twiter{
@@ -110,9 +114,33 @@ h4{
 h1{
 	font-family: sans-serif;
 }
+.gentel{
+	font-family: sans-serif;
+	color:silver;
+}
+.th{
+	font-family: Poiret One;
+	font-size:20px;
+	
+	color:silver;
+}
+
+.parra{
+	font-size:15px;
+	text-align: center;
+}
 .the{
      font-family: Poiret One;
 	font-size: 28px;
+	margin-left: 30px;
+}
+.enlace:hover{
+    color: #F9346C;
+}
+.city{
+	height: 280px;
+	
+	padding-right: 8px;
 }
 .cuadro{
 	width: 130px;
@@ -126,13 +154,13 @@ h1{
 }
 span{
 	color:silver;
-	margin-left: 15px;
+	margin-left: 12px;
 	font-size: 10px;
 }
 #icono{
 	color:silver;
 	font-size: 10px;
-	margin-left: 25px;
+	margin-left: 15px;
 }
 #icono1{
 	color:silver;
