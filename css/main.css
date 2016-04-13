@@ -11,7 +11,8 @@ img{
 #background{
 	background-color:#2E2D32;
 	color:white;
-	padding: 50px;
+	padding: 50px; 
+	height: 150px;
 }
 ul {
 	margin-left: 15px;
@@ -77,6 +78,7 @@ hr{
 	padding-right: 10px;
 	padding-top: 6px;
 	font-size: 20px;
+	color:grey;
 }
 h3{
 	margin-bottom: 10px;
@@ -110,6 +112,7 @@ h4{
 }
 .center{
 	text-align: center;
+	margin-top: 30px;
 }
 h1{
 	font-family: sans-serif;
@@ -144,13 +147,16 @@ h1{
 }
 .cuadro{
 	width: 130px;
-	height: 40px;
-	margin-left: -30px;
+	height: 30px;
 	background-color: black;
-	text-align: center;
-	padding-top: 10px;
-	margin-top: 10px;
-	margin-bottom: 10px;
+	border: black;
+	color:white;
+	padding-left: 4px;
+	padding-right: 4px;
+}
+.font{
+	margin-top:10px;
+	font-size:8px;
 }
 span{
 	color:silver;
